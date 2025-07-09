@@ -10,3 +10,8 @@
 ![Screenshot 3](screenshot3.png)
 ### Viewing the inventory 
 ![Screenshot 4](screenshot4.png)
+
+### Unit Tests Results
+![Unit test screenshot 1](unit-test-screenshot1.png)
+![Unit test screenshot 2](unit-test-screenshot2.png)
+
